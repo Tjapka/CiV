@@ -83,10 +83,15 @@ body {
   background: #d0dd12;
 }
 
-.row.team5 {
-  background-color: #a79c87;
+.row.winner {
+  background-color: #e1a125;
   opacity: 0.85;
 }
+
+.row.winner i {
+  color: #e1a125;
+}
+
 @media screen and (max-width: 580px) {
   .row {
     padding: 8px 0;
